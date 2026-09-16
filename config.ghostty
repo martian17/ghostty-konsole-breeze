@@ -1,5 +1,7 @@
 foreground = #fcfcfc
 background = #232627
+selection-background = #4e5051
+selection-foreground = cell-foreground
 cursor-color = #eff0f1
 palette = 0=#232627
 palette = 1=#ed1515
@@ -23,7 +25,7 @@ cursor-style = block
 cursor-style-blink = false
 shell-integration-features = no-cursor
 cursor-color = cell-foreground
+font-family = Hack
 
 # Adjust these two based on your needs
 font-size = 10
-adjust-cell-height = -18%
